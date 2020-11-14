@@ -44,13 +44,17 @@
         }
       }
 
+      &-info {
+        text-align: j;
+      }
+
       & p > a {
         color: $secondary-color;
       }
     }
 
     &__image {
-      width: 90%;
+      width: 60%;
       margin: 0 auto;
 
       @include respond(tab-land) {
