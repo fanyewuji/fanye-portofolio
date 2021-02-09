@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Portofolio of Ye Fan",
   "main": "index.js",
-  "homepage": "https://http://fanyewuji.github.io/fanye-portofolio",
+  "homepage": "http://fanyewuji.github.io/fanye-portofolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
